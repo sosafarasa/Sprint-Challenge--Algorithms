@@ -5,10 +5,10 @@
 a) O(n), because time will increase in direct proportion of n
 
 
-b) O(n^2) because there are 2 O(n) operations ^^^
+b) O(n^2), because there are 2 O(n) operations ^^^
 
 
-c) O(n) refer to a
+c) O(n), refer to a
 
 ## Exercise II
  
@@ -17,5 +17,5 @@ c) O(n) refer to a
  2- compare the middle to f 
     - if middle == f: return f
     - if  middle > f: then we know f is if not in this half
-    - if middle < f: repeat n/2 on this half until middle = f
+    - if middle < f: repeat n/2 on this half until middle == f
 
